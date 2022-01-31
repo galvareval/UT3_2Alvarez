@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/round_house"
+        android:title="Home" />
+
+    <item android:id="@+id/menuFavorite"
+        android:icon="@drawable/round_favorite_border"
+        android:title="Favorite" />
+
+    <item android:id="@+id/menuAccount"
+        android:icon="@drawable/round_account_circle"
+        android:title="Account" />
+
+    <item android:id="@+id/menuSettings"
+        android:icon="@drawable/round_settings"
+        android:title="Settings" />
+</menu>

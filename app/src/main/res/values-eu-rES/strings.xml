@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UT3ALVAREZ</string>
+    <string name="salute">Kaixo</string>
+    <string name="nombreUser">Gianfranco</string>
+    <string name="search_elements">Bilatu elementuak</string>
+    <string name="contacts">Kontaktuak</string>
+    <string name="health">Osasuna</string>
+    <string name="games">Jolasak</string>
+    <string name="maps">Mapak</string>
+    <string name="trending">JOERAK</string>
+    <string name="dummy_text">Lorem Ipsum inprimaketa eta konposaketa industriako testu finko soil bat da</string>
+</resources>

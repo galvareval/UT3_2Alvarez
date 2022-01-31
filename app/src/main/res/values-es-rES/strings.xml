@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UT3ALVAREZ</string>
+    <string name="salute">Hola</string>
+    <string name="nombreUser">Gianfranco</string>
+    <string name="search_elements">Buscar elementos</string>
+    <string name="contacts">Contactos</string>
+    <string name="health">Salud</string>
+    <string name="games">Juegos</string>
+    <string name="maps">Mapas</string>
+    <string name="trending">TENDENCIAS</string>
+    <string name="dummy_text">Lorem Ipsum es es un simple texto ficticio de la industria de la impresión y la composición tipográfica</string>
+</resources>
